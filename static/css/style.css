@@ -1,0 +1,182 @@
+.body {
+    height: auto;
+    background-color: #fafafa;
+}
+
+.header {
+    background-color: black;
+    width: 100%;
+    height: 700px;
+    margin: auto;
+    background-image: url("../img/aple-pro-3.jpg");
+}
+
+.head_menu {
+    height: 5%;
+}
+
+ul.menu {
+    padding: 0.7% 0 0 0;
+}
+
+.menu a {
+ text-decoration: none;
+ outline: none;
+ line-height: 1.4em;
+ color: #CCCCCC;
+ font: 100% Arial, sans-serif;
+ margin: 5% 0 0 0;
+}
+
+ul.menu li {
+    display: inline; /* Отображать как строчный элемент */
+    margin: 25px 27px 0 27px; /* Отступ слева */
+}
+
+ul.menu {
+    margin: 0 20%;
+}
+
+ul.menu a:hover {
+    color: white;
+}
+
+.one_pro h1 {
+    color: white;
+    margin: 3% 36%;
+    font: 300% Arial, sans-serif;
+}
+
+.one_pro_pay {
+    margin: 6% 0 0 42%;
+}
+
+.one_pro_pay a {
+    color: #2997ff;
+    text-decoration: none;
+    width: 100%;
+    display: inline; /* Отображать как строчный элемент */
+    margin: 0 0 0 4%;
+    font: 120% Arial, sans-serif;
+}
+
+.one_pro_pay a:hover {
+    text-decoration: underline;
+}
+
+.phone1 {
+    background-color: blue;
+    width: 100%;
+    height: 700px;
+    margin: auto;
+    background-image: url("../img/worphone1.jpg");
+}
+
+.one_ h1 {
+    color: black;
+    margin: 0 39.5%;
+    padding: 3% 0 0 0;
+    font: 300% Arial, sans-serif;
+}
+
+.one_pay {
+    margin: 7% 0 0 41%;
+}
+
+.one_pay a {
+    color: #2997ff;
+    text-decoration: none;
+    width: 100%;
+    display: inline; /* Отображать как строчный элемент */
+    margin: 0 0 0 4%;
+    font: 120% Arial, sans-serif;
+}
+
+.one_pay a:hover {
+    text-decoration: underline;
+}
+
+.watch {
+    background-color: blue;
+    width: 100%;
+    height: 700px;
+    margin: auto;
+    background-image: url("../img/wotch2.jpg");
+}
+
+.one_w h1 {
+    color: black;
+    margin: 0 44%;
+    padding: 3% 0 0 0;
+    font: 300% Arial, sans-serif;
+}
+
+.one_w_pay {
+    margin: 5% 0 0 42%;
+}
+
+.one_w_pay a {
+    color: #2997ff;
+    text-decoration: none;
+    width: 100%;
+    display: inline; /* Отображать как строчный элемент */
+    margin: 0 0 0 4%;
+    padding: -3% 0 0 0;
+    font: 120% Arial, sans-serif;
+}
+
+.one_w_pay a:hover {
+    text-decoration: underline;
+}
+
+.pods {
+    background-color: blue;
+    width: 100%;
+    height: 700px;
+    margin: auto;
+    background-image: url("../img/worpods3.jpg");
+}
+
+.pods_pay {
+    padding: 15% 0 0 42%;
+}
+
+.pods_pay a {
+    color: #2997ff;
+    text-decoration: none;
+    width: 100%;
+    display: inline; /* Отображать как строчный элемент */
+    margin: 0 0 0 4%;
+    padding: -3% 0 0 0;
+    font: 120% Arial, sans-serif;
+}
+
+.pods_pay a:hover {
+    text-decoration: underline;
+}
+
+.pad {
+    background-color: blue;
+    width: 100%;
+    height: 700px;
+    margin: auto;
+    background-image: url("../img/pad3.jpg");
+}
+
+.pad_pay {
+    padding: 11.5% 0 0 42%;
+}
+
+.pad_pay a {
+    color: #2997ff;
+    text-decoration: none;
+    width: 100%;
+    display: inline; /* Отображать как строчный элемент */
+    margin: 0 0 0 4%;
+    padding: -3% 0 0 0;
+    font: 120% Arial, sans-serif;
+}
+
+.pad_pay a:hover {
+    text-decoration: underline;
+}

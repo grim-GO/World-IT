@@ -1,0 +1,145 @@
+.body {
+    height: auto;
+}
+
+.header {
+    background-color: black;
+    width: 100%;
+    height: 35px;
+
+}
+
+.head_menu {
+    height: 5%;
+    background-color: black;
+}
+
+ul.menu {
+    padding: 0.7% 0 0 0;
+}
+
+.menu a {
+ text-decoration: none;
+ outline: none;
+ line-height: 1.4em;
+ color: #CCCCCC;
+ font: 100% Arial, sans-serif;
+ margin: 5% 0 0 0;
+}
+
+ul.menu li {
+    display: inline; /* Отображать как строчный элемент */
+    margin: 25px 27px 0 27px; /* Отступ слева */
+}
+
+ul.menu {
+    margin: 0 20%;
+}
+
+ul.menu a:hover {
+    color: white;
+}
+
+.pad_pro {
+    background-color: white;
+    width: 100%;
+    height: 700px;
+    margin: 0 auto;
+    background-image: url("../img/pagePad-1.jpg");
+    background-repeat: no-repeat;
+}
+
+ul.pad_list a {
+    text-decoration: none;
+    outline: none;
+    line-height: 1.4em;
+    color: #2997ff;
+    font: 120% Arial, sans-serif;
+    margin: 1% 0;
+}
+
+ul.pad_list a:hover {
+    border-radius: 4px;
+    background-color: #2997ff;
+    color: white;
+}
+
+ul.pad_list a:-moz-suppressed {
+   background-color: black;
+}
+
+ul.pad_list {
+    margin: 0;
+    padding: 25% 0 0 20.5%;
+    list-style: none;
+}
+
+ul.pad_list li {
+    margin: 1.4% 0 0 0;
+}
+
+.pad\+ {
+    background-color: white;
+    width: 100%;
+    height: 700px;
+    margin: auto;
+    background-image: url("../img/padplus3.jpg");
+}
+
+ul.pad\+list a {
+    text-decoration: none;
+    outline: none;
+    line-height: 1.4em;
+    color: #2997ff;
+    font: 120% Arial, sans-serif;
+    margin: 1% 0;
+}
+
+ul.pad\+list a:hover {
+    border-radius: 4px;
+    background-color: #2997ff;
+    color: white;
+}
+
+ul.pad\+list {
+    margin: 0;
+    padding: 20% 0 0 61%;
+    list-style: none;
+}
+
+ul.pad\+list li {
+    margin: 1.4% 0 0 0;
+}
+
+.pad {
+    background-color: white;
+    width: 100%;
+    height: 700px;
+    margin: auto;
+    background-image: url("../img/pad-1.jpg");
+}
+
+ul.pad_pad_list a {
+    text-decoration: none;
+    outline: none;
+    line-height: 1.4em;
+    color: #2997ff;
+    font: 120% Arial, sans-serif;
+    margin: 1% 0;
+}
+
+ul.pad_pad_list a:hover {
+    border-radius: 4px;
+    background-color: #2997ff;
+    color: white;
+}
+
+ul.pad_pad_list {
+    margin: 0;
+    padding: 22% 0 0 20.5%;
+    list-style: none;
+}
+
+ul.pad_pad_list li {
+    margin: 1.4% 0 0 0;
+}
